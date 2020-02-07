@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchGuardNASAPhotos", "WatchGuardNASAPhotos.csproj", "{4705FB30-A022-486F-92DC-FD55FA16CC9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchGuardNASAPhotos.Test", "..\WatchGuardNASAPhotos.Test\WatchGuardNASAPhotos.Test.csproj", "{24183A40-7045-476C-84D9-28B26BABF3FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4705FB30-A022-486F-92DC-FD55FA16CC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4705FB30-A022-486F-92DC-FD55FA16CC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4705FB30-A022-486F-92DC-FD55FA16CC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4705FB30-A022-486F-92DC-FD55FA16CC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24183A40-7045-476C-84D9-28B26BABF3FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24183A40-7045-476C-84D9-28B26BABF3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24183A40-7045-476C-84D9-28B26BABF3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24183A40-7045-476C-84D9-28B26BABF3FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A4A7D66-3C66-40B0-9740-FBCBDCD7109E}
+	EndGlobalSection
+EndGlobal

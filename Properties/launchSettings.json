@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WatchGuardNASAPhotos": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

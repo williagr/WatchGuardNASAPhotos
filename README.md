@@ -12,6 +12,6 @@ Most of the logic is in the PhotoService.cs (which implements the IPhotoService 
 There is a testing project (separate repository, linked here https://github.com/williagr/WatchGuardNASAPhotos.Test).
 
 ### To Do
--Combine these two repositories (Unit Test project was added after the fact)
--Create MVC web application to view local pictures and display in web browser
--Add to Docker containers
+- Combine these two repositories (Unit Test project was added after the fact)
+- Create MVC web application to view local pictures and display in web browser
+- Add to Docker containers
